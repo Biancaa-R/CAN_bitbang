@@ -1,0 +1,5 @@
+../Src/main.c:35:6:delay_us	24	static
+../Src/main.c:42:6:GPIO_Init_Custom	4	static
+../Src/main.c:53:6:CAN_SendByte	24	static
+../Src/main.c:63:6:CAN_SendFrame	16	static
+../Src/main.c:89:5:main	16	static,ignoring_inline_asm
